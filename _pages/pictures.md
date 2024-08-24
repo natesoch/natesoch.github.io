@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pictures
+title: pictures
 permalink: /pictures/
 nav: true
 nav_order: 1
