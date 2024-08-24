@@ -14,6 +14,22 @@ subtitle: Here are some pictures!
     <img src="/assets/img/2.jpg" alt="Description of Picture 2">
     <p>Description of Picture 2.</p>
   </div>
+  <div class="gallery-item">
+    <img src="/assets/img/3.jpg" alt="Description of Picture 3">
+    <p>Description of Picture 3.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/4.jpg" alt="Description of Picture 4">
+    <p>Description of Picture 4.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/5.jpg" alt="Description of Picture 5">
+    <p>Description of Picture 5.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/6.jpg" alt="Description of Picture 6">
+    <p>Description of Picture 6.</p>
+  </div>
   <!-- Add more images here -->
 </div>
 
@@ -21,7 +37,6 @@ subtitle: Here are some pictures!
 <div id="modal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="modal-img">
-  <div id="caption"></div>
 </div>
 
 <style>
@@ -80,13 +95,14 @@ subtitle: Here are some pictures!
 
 .close {
   position: absolute;
-  top: 20px;
-  right: 35px;
+  top: 10px;
+  right: 10px; /* Position closer to the corner of the image */
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
   transition: 0.3s;
   cursor: pointer;
+  z-index: 101; /* Ensure the X is on top */
 }
 
 .close:hover,
@@ -94,6 +110,10 @@ subtitle: Here are some pictures!
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
+}
+
+.modal-content {
+  position: relative;
 }
 </style>
 
@@ -103,12 +123,10 @@ var modal = document.getElementById("modal");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
 var modalImg = document.getElementById("modal-img");
-var captionText = document.getElementById("caption");
 document.querySelectorAll('.gallery-item img').forEach(function(img) {
   img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
   }
 });
 
