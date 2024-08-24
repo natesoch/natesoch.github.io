@@ -2,6 +2,8 @@
 layout: page
 title: Pictures
 permalink: /pictures/
+nav: true
+nav_order: 1
 subtitle: Here are some pictures!
 ---
 Here are some various pictures from trips and just from life in general. Click on an image to expand it! (please try it, it took me a while to get working)
