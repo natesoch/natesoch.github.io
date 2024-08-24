@@ -64,7 +64,7 @@ subtitle: Here are some pictures!
 .modal {
   display: none;
   position: fixed;
-  z-index: 100;
+  z-index: 105; /* Ensure the modal is above the header */
   padding-top: 60px;
   left: 0;
   top: 0;
@@ -74,6 +74,25 @@ subtitle: Here are some pictures!
   background-color: rgba(0, 0, 0, 0.9);
   align-items: center;
   justify-content: center;
+}
+
+.close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: pointer;
+  z-index: 106; /* Ensure the close button is on top of everything */
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .modal-content {
