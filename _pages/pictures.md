@@ -7,5 +7,5 @@ subtitle: Here are some pictures!
 
 ## Picture Gallery
 
-![Me!](assets/img/prof_pic.jpg)
-Me!
+![Description of Picture 1]({{ '/assets/img/prof_pic.jpg' | relative_url }})
+*Description of Picture 1.*
