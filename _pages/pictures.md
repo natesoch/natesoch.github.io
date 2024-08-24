@@ -4,55 +4,55 @@ title: Pictures
 permalink: /pictures/
 subtitle: Here are some pictures!
 ---
-Here are some various pictures from trips and just from life in general.
+Here are some various pictures from trips and just from life in general. Click on an image to expand it! (please try it, it took me a while to get working)
 <div class="gallery">
   <div class="gallery-item">
     <img src="/assets/img/1.jpg" alt="Description of Picture 1">
-    <p>Description of Picture 1.</p>
+    <p>Me on a rock somewhere in Oregon.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/2.jpg" alt="Description of Picture 2">
-    <p>Description of Picture 2.</p>
+    <p>On a boat in Lake Lucerne, Switzerland.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/3.jpg" alt="Description of Picture 3">
-    <p>Description of Picture 3.</p>
+    <p>The Norte Dame Cathedral of Strasbourg, in Strasbourg, France.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/4.jpg" alt="Description of Picture 4">
-    <p>Description of Picture 4.</p>
+    <p>On top of Dog Mountain, Washington.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/5.jpg" alt="Description of Picture 5">
-    <p>Description of Picture 5.</p>
+    <p>Also Dog Mountain.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/6.jpg" alt="Description of Picture 6">
-    <p>Description of Picture 6.</p>
+    <p>Village of Endelberg, Switzerland.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/7.jpg" alt="Description of Picture 1">
-    <p>Description of Picture 1.</p>
+    <p>Snowy swiss alps, one of my favorite photos.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/8.jpg" alt="Description of Picture 2">
-    <p>Description of Picture 2.</p>
+    <p>More mountain.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/9.jpg" alt="Description of Picture 3">
-    <p>Description of Picture 3.</p>
+    <p>Atop Mt Titlis.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/10.jpg" alt="Description of Picture 4">
-    <p>Description of Picture 4.</p>
+    <p>Highest suspension bridge in Europe, very cold!</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/11.jpg" alt="Description of Picture 5">
-    <p>Description of Picture 5.</p>
+    <p>Lake Lucerne.</p>
   </div>
   <div class="gallery-item">
     <img src="/assets/img/12.jpg" alt="Description of Picture 6">
-    <p>Description of Picture 6.</p>
+    <p>Lucerne.</p>
   </div>
   <!-- Add more images here -->
 </div>
