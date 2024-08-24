@@ -64,7 +64,7 @@ subtitle: Here are some pictures!
 .modal {
   display: none;
   position: fixed;
-  z-index: 105; /* Ensure the modal is above the header */
+  z-index: 9999; /* Ensure the modal is above the header */
   padding-top: 60px;
   left: 0;
   top: 0;
@@ -85,7 +85,7 @@ subtitle: Here are some pictures!
   font-weight: bold;
   transition: 0.3s;
   cursor: pointer;
-  z-index: 106; /* Ensure the close button is on top of everything */
+  z-index: 10000; /* Ensure the close button is on top of everything */
 }
 
 .close:hover,
