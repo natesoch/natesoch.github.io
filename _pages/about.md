@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.engin.umich.edu/'>University of Michigan</a>. Ann Arbor, MI. <a href="mailto natesoch@umich.edu">natesoch@umich.edu</a>. Add me on <a href='https://www.linkedin.com/in/natesochocki/'> linkedin</a>.
+subtitle: <a href='https://www.engin.umich.edu/'>University of Michigan</a>. Ann Arbor, MI. <a href="mailto: natesoch@umich.edu">natesoch@umich.edu</a>. Add me on <a href='https://www.linkedin.com/in/natesochocki/'> linkedin</a>.
 
 profile:
   align: right
