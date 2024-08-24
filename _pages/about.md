@@ -22,4 +22,4 @@ At my school, I am a TA for ENGR 101, an introductory programming class for engi
 
 ## My Resume
 
-<iframe src="{{ site.baseurl }}/assets/resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/assets/resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
