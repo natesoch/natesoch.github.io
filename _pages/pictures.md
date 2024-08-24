@@ -4,14 +4,14 @@ title: Pictures
 permalink: /pictures/
 subtitle: Here are some pictures!
 ---
-
+Here are some various pictures from trips and just from life in general.
 <div class="gallery">
   <div class="gallery-item">
     <img src="/assets/img/1.jpg" alt="Description of Picture 1">
     <p>Description of Picture 1.</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/img/1.jpg" alt="Description of Picture 2">
+    <img src="/assets/img/2.jpg" alt="Description of Picture 2">
     <p>Description of Picture 2.</p>
   </div>
   <div class="gallery-item">
@@ -28,6 +28,30 @@ subtitle: Here are some pictures!
   </div>
   <div class="gallery-item">
     <img src="/assets/img/6.jpg" alt="Description of Picture 6">
+    <p>Description of Picture 6.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/7.jpg" alt="Description of Picture 1">
+    <p>Description of Picture 1.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/8.jpg" alt="Description of Picture 2">
+    <p>Description of Picture 2.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/9.jpg" alt="Description of Picture 3">
+    <p>Description of Picture 3.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/10.jpg" alt="Description of Picture 4">
+    <p>Description of Picture 4.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/11.jpg" alt="Description of Picture 5">
+    <p>Description of Picture 5.</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/12.jpg" alt="Description of Picture 6">
     <p>Description of Picture 6.</p>
   </div>
   <!-- Add more images here -->
