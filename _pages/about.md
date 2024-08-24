@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Here's me! Check out my [Pictures](/pictures) page for more cool photos.</p>
+    <p> Here's me! Check out my <a href="https://natesoch.github.io/pictures/">pictures page</a> for more cool photos.</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
