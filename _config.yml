@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Nate's Blog # blog_name will be displayed in your blog page
-blog_description: Whatever is on my minmd
+blog_description: Whatever is on my mind
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -224,7 +224,12 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include:
+  - _pages/about.md
+  - _pages/pictures.md
+  - _pages/blog.md
+  - _pages/profiles.md
+  - _pages/404.md
 exclude:
   - _pages/publications.md
   - _pages/cv.md
