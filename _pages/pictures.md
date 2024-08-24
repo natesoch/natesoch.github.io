@@ -78,7 +78,7 @@ subtitle: Here are some pictures!
 
 .close {
   position: absolute;
-  top: 20px;
+  top: 80px; /* Position the close button lower, below the header */
   right: 20px;
   color: #f1f1f1;
   font-size: 40px;
@@ -100,7 +100,9 @@ subtitle: Here are some pictures!
   display: block;
   width: 80%;
   max-width: 700px;
+  position: relative;
 }
+
 
 .modal-content, .close {
   animation-name: zoom;
