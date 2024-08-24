@@ -11,7 +11,7 @@ subtitle: Here are some pictures!
     <p>Description of Picture 1.</p>
   </div>
   <div class="gallery-item">
-    <img src="/assets/img/2.jpg" alt="Description of Picture 2">
+    <img src="/assets/img/1.jpg" alt="Description of Picture 2">
     <p>Description of Picture 2.</p>
   </div>
   <div class="gallery-item">
