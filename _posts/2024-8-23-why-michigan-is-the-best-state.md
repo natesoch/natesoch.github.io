@@ -5,7 +5,7 @@ title:  "Why Michigan is The Best State"
 
 # Why Michigan?
 
-Alright, let’s talk about why Michigan is the best state. If you’re not convinced yet, buckle up because I’m about to tell you why Michigan deserves a top spot on your list of favorite places.
+Alright, let’s talk about why Michigan is the best state. This is important stuff.
 
 First off, we’ve got the Great Lakes. All five of them in their glory, unlike Ohio. They’re some of the largest freshwater lakes in the world (Lake Superior is largest by area), and they’re clean, making them great to swim in (Lundington State Park has some great beaches!). If you’re into swimming, boating, or just enjoying a gorgeous view, you’re in for a treat.
 
