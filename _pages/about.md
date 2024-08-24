@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.engin.umich.edu/'>University of Michigan</a>. Ann Arbor, MI. <a href='natesoch@umich.edu'>natesoch@umich.edu</a>.
+subtitle: <a href='https://www.engin.umich.edu/'>University of Michigan</a>. Ann Arbor, MI. <a href="mailto natesoch@umich.edu">natesoch@umich.edu</a>. Add me on <a href='https://www.linkedin.com/in/natesochocki/'> linkedin</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Here's me! Check out my Pictures page for more cool photos.</p>
+    <p> Here's me! Check out my [Pictures](/pictures) page for more cool photos.</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
