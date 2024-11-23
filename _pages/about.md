@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my website! I am a senior studying Computer Engineering at the University of Michigan and have plans to pursue a Master's degree in Electrical and Computer Engineering. Originally I am Evart, Michigan—a small town in the mid-north part of the state. 
+Hello and welcome to my website! I am a senior studying Computer Engineering at the University of Michigan and have plans to pursue a Master's degree in Electrical and Computer Engineering. Originally I am from Evart, Michigan—a small town in the mid-north part of the state. 
 
 Some of my work experience consists of interning as a software engineer at AdvantageCS, based in Ann Arbor, and as a FPGA design engineer intern this past summer at Garmin, where I worked at their headquaters in Olathe, Kansas. Check out my resume below for a more comprehensive description of these!
 
